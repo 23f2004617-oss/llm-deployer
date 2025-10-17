@@ -1,0 +1,19 @@
+{
+  "email": "23f2004617@ds.study.iitm.ac.in",
+  "secret": "mySuperSecretKey",
+  "task": "hello-world-app-v2",
+  "round": 2,
+  "nonce": "1234-5678",
+  "brief": "Add new feature: show revision message on page",
+  "checks": [
+    "Repo has MIT license",
+    "README.md is professional"
+  ],
+  "evaluation_url": "http://127.0.0.1:8000/dummy",
+  "attachments": [
+  {
+    "name": "sample.txt",
+    "url": "ddata:text/plain;base64,SGVsbG8sIFN1YmFzcmkh"
+  }
+]
+}
